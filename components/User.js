@@ -9,9 +9,9 @@ export default function UserProfile() {
     <div id="profile" className="user-page">
       <img src={user.photoURL} alt="user" width="100px" height="100px" className="user-display-photo" />
       <div className="infos"><br />
-        <h5 className="user-info">username: {user.displayName}</h5>
-        <h6 className="user-info">user e-mail: {user.email}</h6>
-        <h6 className="user-info">last login: {user.metadata.lastSignInTime}</h6>
+        <h3 className="user-info"><b>Username:</b> {user.displayName}</h3>
+        <h6 className="user-info"><b>User E-mail: </b>{user.email}</h6>
+        <h6 className="user-info"><b>Last Login: </b>{user.metadata.lastSignInTime}</h6>
       </div>
     </div>
   );

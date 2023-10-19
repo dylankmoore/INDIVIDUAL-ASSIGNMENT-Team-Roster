@@ -25,15 +25,15 @@ export default function Team() {
       className="text-center"
       style={{
         padding: '30px',
-        paddingTop: '50px',
+        paddingTop: '30px',
         alignItems: 'center',
       }}
     >
       <div>
         <div className="member-button">
           <Link href="/member/new" passHref>
-            <Button className="add-member">Add Member</Button>
-          </Link>
+            <Button className="add-member" id="addmem">Add Member</Button>
+          </Link><br /><br />
         </div>
         <div className="teams">
           {members.map((member) => (

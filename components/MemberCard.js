@@ -14,22 +14,24 @@ export default function MemberCard({ memberObj, onUpdate }) {
 
   // MEMBER CARDS
   return (
-    <Card style={{ width: '18rem', margin: '10px' }}>
-      <Card.Img variant="top" src={memberObj.image} alt={memberObj.name} />
-      <Card.Body>
-        <Card.Title>{memberObj.name}</Card.Title>
-        <p className="card-text bold">{memberObj.role}</p>
-        <div className="text-center">
-          {/* DYNAMIC LINK TO EDIT THE MEMBER DETAILS  */}
-          <Link href={`/member/edit/${memberObj.firebaseKey}`} passHref>
-            <Button variant="info">EDIT</Button>
-          </Link>
-          <Button variant="danger" className="m-2" onClick={deleteThisMember}>
-            DELETE
-          </Button>
-        </div>
-      </Card.Body>
-    </Card>
+    <div id="membercards">
+      <Card style={{ width: '18rem', margin: '10px' }}>
+        <Card.Img variant="top" src={memberObj.image} alt={memberObj.name} height="300px" />
+        <Card.Body>
+          <Card.Title>{memberObj.name}</Card.Title>
+          <p className="card-text bold">{memberObj.role}</p>
+          <div className="text-center">
+            {/* DYNAMIC LINK TO EDIT THE MEMBER DETAILS  */}
+            <Link href={`/member/edit/${memberObj.firebaseKey}`} passHref>
+              <Button id="edit">EDIT</Button>
+            </Link>
+            <Button id="memdel" className="m-2" onClick={deleteThisMember}>
+              DELETE
+            </Button>
+          </div>
+        </Card.Body>
+      </Card>
+    </div>
   );
 }
 
