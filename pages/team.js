@@ -25,7 +25,8 @@ export default function Team() {
     if (!query) {
       getAllMembers();
     } else {
-      const filter = members.filter((member) => member.name.toLowerCase().includes(query) || member.role.toLowerCase().includes(query));
+      const filter = members.filter((member) => member.name.toLowerCase().includes(query)
+      || member.role.toLowerCase().includes(query));
       setMembers(filter);
     }
   };
@@ -42,6 +43,7 @@ export default function Team() {
       }}
     >
       <div>
+        <h1>Team</h1><br />
         <div id="searchbar">
           <SearchBar onKeyUp={(query) => filterResult(query)} />
         </div><br /><br />
