@@ -13,6 +13,7 @@ const initialState = {
   role: '',
 };
 
+// function to render add/edit member form
 function MemberForm({ obj }) {
   const [formInput, setFormInput] = useState(initialState);
   const [setMembers] = useState([]);
@@ -33,6 +34,7 @@ function MemberForm({ obj }) {
     }));
   };
 
+  // function to re render the team view upon submit
   const handleSubmit = (e) => {
     e.preventDefault();
     if (obj.firebaseKey) {
@@ -48,6 +50,7 @@ function MemberForm({ obj }) {
     }
   };
 
+  // add/edit member form
   return (
     <div id="form">
       <Form onSubmit={handleSubmit}>

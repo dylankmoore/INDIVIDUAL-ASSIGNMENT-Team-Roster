@@ -5,6 +5,7 @@ import { Button } from 'react-bootstrap';
 import { useAuth } from '../utils/context/authContext';
 import MemberCard from '../components/MemberCard';
 import { getMembers } from '../api/memberData';
+import SearchBar from '../components/Search';
 
 // FUNCTION TO SHOW ALL MEMBERS
 export default function Team() {
@@ -19,6 +20,17 @@ export default function Team() {
     getAllMembers();
   }, []);
 
+  // function to allow user to search members
+  const filterResult = (query) => {
+    if (!query) {
+      getAllMembers();
+    } else {
+      const filter = members.filter((member) => member.name.toLowerCase().includes(query) || member.role.toLowerCase().includes(query));
+      setMembers(filter);
+    }
+  };
+
+  // main team page rendering
   return (
     <div
       id="team-main"
@@ -30,6 +42,9 @@ export default function Team() {
       }}
     >
       <div>
+        <div id="searchbar">
+          <SearchBar onKeyUp={(query) => filterResult(query)} />
+        </div><br /><br />
         <div className="member-button">
           <Link href="/member/new" passHref>
             <Button className="add-member" id="addmem">Add Member</Button>
