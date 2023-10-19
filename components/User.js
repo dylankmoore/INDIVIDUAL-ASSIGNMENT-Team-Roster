@@ -2,6 +2,7 @@
 import React from 'react';
 import { useAuth } from '../utils/context/authContext';
 
+// function show the authenticated user's profile info
 export default function UserProfile() {
   const { user } = useAuth();
 
