@@ -16,9 +16,9 @@ The Ballet Company Roster is an app where a member or admin of a dance/ballet co
 - When the user logs out, it will take them back to the log in page.
 
 ## Relevant Links
-- [Check out the deployed site](#https://dkm-team-roster.netlify.app/)
-- [Wireframes](#https://www.figma.com/file/PNrKQgRFfTTMoqDVMqtPka/Team-Roster?type=design&node-id=1%3A4&mode=dev)
-- [Project Board](#https://github.com/users/dylankmoore/projects/4)
+- [Check out the deployed site](https://dkm-team-roster.netlify.app/)
+- [Wireframes](https://www.figma.com/file/PNrKQgRFfTTMoqDVMqtPka/Team-Roster?type=design&node-id=1%3A4&mode=dev)
+- [Project Board](https://github.com/users/dylankmoore/projects/4)
 
 ## Project Screenshots 
 
