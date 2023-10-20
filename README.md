@@ -5,8 +5,8 @@ The Ballet Company Roster is an app where a member or admin of a dance/ballet co
 [View App](#https://dkm-team-roster.netlify.app/)
 
 ## About the User
--The ideal user for this application is a member or admin of a dance/ballet company wanting to keep up with various companies and their members. 
--The problem this app solves is for companies to be able to keep tabs on their roster and update/change them as needed.
+- The ideal user for this application is a member or admin of a dance/ballet company wanting to keep up with various companies and their members. 
+- The problem this app solves is for companies to be able to keep tabs on their roster and update/change them as needed.
 
 ## Features 
 - When a user goes to the app, they will need to log in via google auth to continue.
