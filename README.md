@@ -1,8 +1,6 @@
-
 # The Ballet Company Roster [![Netlify Status](https://api.netlify.com/api/v1/badges/4ab7e730-7ed3-4cfd-a988-66195e79a991/deploy-status)](https://app.netlify.com/sites/dkm-team-roster/deploys)
 
 [View App](#https://dkm-team-roster.netlify.app/)
-
 
 ## About the User
 -The ideal user for this application is a member or admin of a dance/ballet company wanting to keep up with various companies and their members. 
