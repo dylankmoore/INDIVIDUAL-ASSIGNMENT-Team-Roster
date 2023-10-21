@@ -23,7 +23,7 @@ The Ballet Company Roster is an app where a member or admin of a dance/ballet co
 - [Project Board](https://github.com/users/dylankmoore/projects/4)
 
 ## Project Screenshots 
-- ![image](https://imgur.com/Chq2r70)
+- ![image](https://www.imgur.com/Chq2r70)
 - ![image2](https://imgur.com/voqzGPz)
 - ![image3](https://imgur.com/uyytJjv)
 - ![image4](https://imgur.com/vaC8usN)
