@@ -46,7 +46,7 @@ body {
   background-color: maroon;
   border-color: #f1e3e9;
   border-radius: 10px;
-  margin-left: 490px;
+  margin-left: 800px;
 }
 
 #signout:hover {
@@ -61,6 +61,7 @@ body {
   display: flex;
   font-family: 'Courier New', Courier, monospace;
   font-size: 14px;
+  justify-content: center;
 } 
 
 #index-one {
@@ -79,7 +80,7 @@ body {
 #form {
   width: 900px;
   padding-left: 410px;
-  font-family: 'Courier New', Courier, monospace
+  font-family: 'Courier New', Courier, monospace;
 }
 
 #member-form {
@@ -113,17 +114,17 @@ body {
 }
 
 #addmem {
-  background-color: #f1e3e9;
+  background-color: #F5EFFB;
   border-radius: 12px;
   border-color: #f1e3e9;
   color: black;
-  font-size: 20px;
+  font-size: 15px;
   font-family: arial;
   margin-right: 0px;
 }
 
 #welcome {
-  margin-left: 38 px;
+  margin-left: 35px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -134,6 +135,10 @@ body {
   border-radius: 12px;
   border-color: #f1e3e9;
   color: black;
+}
+
+#signin:hover {
+  background-color: #F5EFFB;
 }
 
 #searchbar {

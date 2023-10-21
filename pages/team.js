@@ -43,7 +43,7 @@ export default function Team() {
       }}
     >
       <div>
-        <h1>Team</h1><br />
+        <h1>Team</h1><hr /><br />
         <div id="searchbar">
           <SearchBar onKeyUp={(query) => filterResult(query)} />
         </div><br /><br />

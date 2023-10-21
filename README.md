@@ -1,4 +1,3 @@
-
 # The Ballet Company Roster  [![Netlify Status](https://api.netlify.com/api/v1/badges/4ab7e730-7ed3-4cfd-a988-66195e79a991/deploy-status)](https://app.netlify.com/sites/dkm-team-roster/deploys)
 The Ballet Company Roster is an app where a member or admin of a dance/ballet company can create teams, view the members as well as update, delete & search them in order to stay organized.
 
