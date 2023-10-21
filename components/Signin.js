@@ -18,7 +18,7 @@ function Signin() {
         <img src="/logo.png" alt="icon" className="nav-logo" width="400" height="400" id="image" />
       </div>
       <div id="welcome">
-        <h1>Hi there!</h1>
+        <h1>Hello!</h1>
         <p>Click the button below to login!</p>
         <Button type="button" size="medium" id="signin" className="copy-btn" onClick={signIn}>
           Sign In
