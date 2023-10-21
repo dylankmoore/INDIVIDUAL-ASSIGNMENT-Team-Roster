@@ -1,0 +1,50 @@
+{
+  "-NhHekKR9r5_ZWWvhEsK": {
+    "uid": 1,
+    "teamName": "Wilkinson-Osinski",
+    "firebaseKey": "8531127793",
+    "image": "http://dummyimage.com/189x100.png/cc0000/ffffff"
+  },
+  "-NhHekKSYYEQIpM-rw9j": {
+    "uid": 3,
+    "teamName": "Goodwin-Pfannerstill",
+    "firebaseKey": "4432173602",
+    "image": "http://dummyimage.com/222x100.png/ff4444/ffffff"
+  },
+  "-NhHekKTgwu6ASY4J1GS": {
+    "uid": 3,
+    "teamName": "Prosacco, McDermott and Stanton",
+    "firebaseKey": "4233505389",
+    "image": "http://dummyimage.com/162x100.png/dddddd/000000"
+  },
+  "-NhHekKVGI1ncn_DoBsd": {
+    "uid": 3,
+    "teamName": "White and Sons",
+    "firebaseKey": "5384660139",
+    "image": "http://dummyimage.com/222x100.png/ff4444/ffffff"
+  },
+  "-NhHekKWsEhlBbSsHiQd": {
+    "uid": 3,
+    "teamName": "Jones, Sanford and Bayer",
+    "firebaseKey": "5387292963",
+    "image": "http://dummyimage.com/140x100.png/cc0000/ffffff"
+  },
+  "-NhHekKXwI-vgA_yyhda": {
+    "uid": 1,
+    "teamName": "Herzog LLC",
+    "firebaseKey": "0697373754",
+    "image": "http://dummyimage.com/250x100.png/cc0000/ffffff"
+  },
+  "-NhHekKYVwp0HiNxWx9v": {
+    "uid": 3,
+    "teamName": "Hayes-Mraz",
+    "firebaseKey": "1592116213",
+    "image": "http://dummyimage.com/170x100.png/5fa2dd/ffffff"
+  },
+  "-NhHekKZVzh77adC7APi": {
+    "uid": 1,
+    "teamName": "Bogisich, Klein and Paucek",
+    "firebaseKey": "8883389905",
+    "image": "http://dummyimage.com/230x100.png/ff4444/ffffff"
+  }
+}
