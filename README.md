@@ -15,7 +15,7 @@ The Ballet Company Roster is an app where a member or admin of a dance/ballet co
 - When the user logs out, it will take them back to the log in page.
 
 ## Video Waalkthrough of The Ballet Company Roster
-- [Loom video](#https://www.loom.com/share/12429e16e43f49989101e0bc387a09cd?sid=6728cb9f-b9ee-4072-ba05-0ce34563487d)
+- [Loom video](https://www.loom.com/share/12429e16e43f49989101e0bc387a09cd?sid=6728cb9f-b9ee-4072-ba05-0ce34563487d)
 
 ## Relevant Links
 - [Check out the deployed site](https://dkm-team-roster.netlify.app/)
