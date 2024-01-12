@@ -18,11 +18,10 @@ The Ballet Company Roster is an app where a member or admin of a dance/ballet co
 - [Loom video](https://www.loom.com/share/12429e16e43f49989101e0bc387a09cd?sid=6728cb9f-b9ee-4072-ba05-0ce34563487d)
 
 ## Screenshots
-![Screenshot 2024-01-11 220642](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/62bcaaa1-a016-4d51-98d7-5b1f59867d26)
-![Screenshot 2024-01-11 220714](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/fdffdc05-d718-4c29-9e76-08657aa927d0)
-![Screenshot 2024-01-11 220756](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/5c0d68f8-7348-43af-82c9-461d6089b1c8)
-![Screenshot 2024-01-11 220847](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/953cae76-133a-4bbe-a6b5-cfa5d4b2d74e)
-
+![Screenshot 2024-01-11 220642](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/74b472db-d119-4dac-8fc7-f71f12db96e0)
+![Screenshot 2024-01-11 220714](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/43ee5c45-ffe2-42ab-b268-c4f5ead0b237)
+![Screenshot 2024-01-11 220756](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/f8e185a9-3846-4ec3-bba5-dafb983ec49b)
+![Screenshot 2024-01-11 220847](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/51a00ee3-7558-4b04-a6f5-7eabb439164c)
 
 ## Relevant Links
 - [Check out the deployed site](https://dkm-team-roster.netlify.app/)
