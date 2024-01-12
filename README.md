@@ -17,6 +17,13 @@ The Ballet Company Roster is an app where a member or admin of a dance/ballet co
 ## Video Waalkthrough of The Ballet Company Roster
 - [Loom video](https://www.loom.com/share/12429e16e43f49989101e0bc387a09cd?sid=6728cb9f-b9ee-4072-ba05-0ce34563487d)
 
+## Screenshots
+![Screenshot 2024-01-11 220642](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/091a46d0-0699-4f52-add6-3dbd2e73794a)
+![Screenshot 2024-01-11 220714](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/0f2c296d-ceaf-4c17-b2a5-ab845d5ccc08)
+![Screenshot 2024-01-11 220756](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/f93f52f4-8b33-41ad-b6e8-6df0779383e6)
+![Screenshot 2024-01-11 220847](https://github.com/dylankmoore/INDIVIDUAL-ASSIGNMENT-Team-Roster/assets/134669892/91653109-9c5f-424a-9d18-d1371b87a7f4)
+
+
 ## Relevant Links
 - [Check out the deployed site](https://dkm-team-roster.netlify.app/)
 - [Wireframes](https://www.figma.com/file/PNrKQgRFfTTMoqDVMqtPka/Team-Roster?type=design&node-id=1%3A4&mode=dev)
